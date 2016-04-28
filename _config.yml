@@ -1,0 +1,14 @@
+layout_spectrum: 0.9587720506824553
+typography_spectrum: 0.6446929338853806
+color:
+  brandStrength: 0.9133732237387449
+  lightness: 0.068901760969311
+  saturation: 0.39987795357592404
+  rhythmicContrast: 0.7079892696347088
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Favorite Recipes
